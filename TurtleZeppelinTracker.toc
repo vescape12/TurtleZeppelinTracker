@@ -1,11 +1,7 @@
 Interface: 11200
-
 Title: Turtle Zeppelin Tracker
-
-Notes: Displays zeppelin locations on the minimap and world map for Turtle WoW.
-
+Notes: Displays zeppelin locations on the world map for Turtle WoW.
 Author: Grok
-
-Version: 1.8
-
-routes.lua TurtleZeppelinTracker.lua
+Version: 1.9
+routes.lua
+TurtleZeppelinTracker.lua
